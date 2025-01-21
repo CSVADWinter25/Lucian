@@ -1,3 +1,3 @@
 ## Project 2 Readme
 
-This is the README document. Use it to describe the project and cite sources.
+For this pattern, I ran a loop to count the position of a counter variable. At that counter, the draw function picks a random xy coordinate in the range of the counter + the canvas size / 6. At these coordinates, a point is plotted and reflected across each access. The uppermost points have several dots surrounding the center point. Each reflection has less surrounding points, eventually leading to the bottom right - with only 1 point. This creates a symmetrical structure with slight variation. There are colors picked from a set by indexing randomly through a color array.
