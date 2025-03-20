@@ -1,3 +1,2 @@
-## Final Project Readme
-
-This is the README document. Use it to describe the project and cite sources.
+MAIN REPO ON MY PAGE AT 
+https://github.com/lucianpar/spectralNotation
